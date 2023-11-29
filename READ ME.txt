@@ -1,0 +1,9 @@
+READ ME
+
+Hello
+
+ In the flluter-app folder, there are PHP files and database backups. You can use localhost,in htdocs file (xamp) or www (wamp).
+ Put the Flutter app in the htdocs folder and import the database backup into the database.
+ Note: After opening Flutter, change the IP addresses!
+ This program is an application that retrieves images and sliders from the database and displays them. Each product has a gallery and comment section that displays comments stored in the database, and sliders have a price and product name.
+ Thank you for your attention.
